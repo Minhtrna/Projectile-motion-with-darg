@@ -12,7 +12,7 @@ https://web.physics.wustl.edu/~wimd/topic01.pdf?fbclid=IwAR3Zwo0cU_KoCJrgqzq66fB
 
 sách : Learning Scientific Programming with Python
 
-#V ideo 
+# Video 
 
 https://www.youtube.com/watch?v=Ce6CQs7yOtU
 

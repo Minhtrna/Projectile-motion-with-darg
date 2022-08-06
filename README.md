@@ -12,7 +12,12 @@ https://web.physics.wustl.edu/~wimd/topic01.pdf?fbclid=IwAR3Zwo0cU_KoCJrgqzq66fB
 
 sách : Learning Scientific Programming with Python
 
-#
+#Video 
+
+https://www.youtube.com/watch?v=Ce6CQs7yOtU
+
+https://www.youtube.com/watch?v=AbgZS3r_Yz0
+
 # Mô tả
 
 Ở phiên bản đầu tiên, tôi cố gắng tạo ta một thứ gì đó có thể tính toán được khoảng cách di chuyển của viên đạn, với các thông số đầu vào như : khối lượng, vận tốc, hệ số cản, diện tích bề mặt....

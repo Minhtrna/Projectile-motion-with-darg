@@ -35,6 +35,10 @@ theo sơ đồ sau :
 
 ![image](https://user-images.githubusercontent.com/54757285/183226206-de0fd12f-657a-4e2c-890f-a456cc5d5bfc.png)
 
+#
+#NẾU BẠN CHẠY TRÊN GOOGLE COLAB ĐỪNG QUÊN CHẠY LẠI CELL THÔNG SỐ ĐẦU VÀO TRƯỚC MỖI LẦN CHẠY, KHÔNG THỰC HIỆN VIỆC NÀY SẼ DẪN ĐẾN SAI LỆCH KẾT QUẢ
+#
+
 Sau đó, nếu chạy trên máy tính cá nhân với ide hãy gõ trong cmd "python tên file mà bạn lưu.py" và file python sẽ được chạy, trường hợp sử dụng notbook hoặc colab : chỉnh sửa thông số và chạy lần lượt từng cell
 
 

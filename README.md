@@ -39,7 +39,7 @@ theo sơ đồ sau :
 #NẾU BẠN CHẠY TRÊN GOOGLE COLAB ĐỪNG QUÊN CHẠY LẠI CELL THÔNG SỐ ĐẦU VÀO TRƯỚC MỖI LẦN CHẠY, KHÔNG THỰC HIỆN VIỆC NÀY SẼ DẪN ĐẾN SAI LỆCH KẾT QUẢ
 #
 
-Sau đó, nếu chạy trên máy tính cá nhân với ide hãy gõ trong cmd "python tên file mà bạn lưu.py" và file python sẽ được chạy, trường hợp sử dụng notbook hoặc colab : chỉnh sửa thông số và chạy lần lượt từng cell
+Sau đó, nếu chạy trên máy tính cá nhân với ide hãy gõ trong cmd "python tên file mà bạn lưu.py" và file python sẽ được chạy, trường hợp sử dụng notebook hoặc colab : chỉnh sửa thông số và chạy lần lượt từng cell
 
 
 Đối với phiên bản số 2 : 

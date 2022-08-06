@@ -36,6 +36,15 @@ theo sơ đồ sau :
 ![image](https://user-images.githubusercontent.com/54757285/183226206-de0fd12f-657a-4e2c-890f-a456cc5d5bfc.png)
 
 Sau đó, nếu chạy trên máy tính cá nhân với ide hãy gõ trong cmd "python tên file mà bạn lưu.py" và file python sẽ được chạy, trường hợp sử dụng notbook hoặc colab : chỉnh sửa thông số và chạy lần lượt từng cell
+Đối với phiên bản số 2 : tính toán đã được chỉnh sửa thành một hàm có tên là tinhtoan, nó nhận vào tham số phi0 vả trả về giá trị khoảng cách đi được aka X
+
+![image](https://user-images.githubusercontent.com/54757285/183229513-be223cc6-1000-4d14-93a1-8c4111c88d53.png)
+
+để sử dụng nó hãy tạo ra một vòng lặp => vòng lặp này xét giá trị trả về của hàm tinhtoan(), lặp lại cho đến khi giá trị đó bằng với giá trị khoảng cách mà bạn mong muốn, trong hình ảnh dưới đây tôi ví dụ mình muốn nó đi được 100 mét. 
+
+![image](https://user-images.githubusercontent.com/54757285/183229571-b594baf3-d379-4f69-a3bf-49bb68a9391f.png)
+
+khi mà giá trị trả về vẫn nhỏ hơn khoảng cách mong muốn => tăng góc bắn lên thêm 1 khoảng ở đây ví dụ là 0.1 độ bạn có thể đặt nó là gì tùy thích => nếu đạt khoảng cách nó sẽ dừng vòng lặp và trả về giá trị khoảng cách cũng như góc bắn.
 
 
 ## Dự định

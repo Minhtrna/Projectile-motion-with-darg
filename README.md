@@ -36,7 +36,16 @@ theo sơ đồ sau :
 ![image](https://user-images.githubusercontent.com/54757285/183226206-de0fd12f-657a-4e2c-890f-a456cc5d5bfc.png)
 
 Sau đó, nếu chạy trên máy tính cá nhân với ide hãy gõ trong cmd "python tên file mà bạn lưu.py" và file python sẽ được chạy, trường hợp sử dụng notbook hoặc colab : chỉnh sửa thông số và chạy lần lượt từng cell
-Đối với phiên bản số 2 : tính toán đã được chỉnh sửa thành một hàm có tên là tinhtoan, nó nhận vào tham số phi0 vả trả về giá trị khoảng cách đi được aka X
+
+
+Đối với phiên bản số 2 : 
+
+ĐỪNG QUÊN : đặt giá trị ang ở mục đầu thành 0 
+
+![image](https://user-images.githubusercontent.com/54757285/183229682-d309eeca-0a50-4cfe-9eb2-71a23cbe0779.png)
+
+
+tính toán đã được chỉnh sửa thành một hàm có tên là tinhtoan, nó nhận vào tham số phi0 vả trả về giá trị khoảng cách đi được aka X
 
 ![image](https://user-images.githubusercontent.com/54757285/183229513-be223cc6-1000-4d14-93a1-8c4111c88d53.png)
 

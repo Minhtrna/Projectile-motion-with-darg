@@ -30,6 +30,14 @@ theo sơ đồ sau :
 ![image](https://user-images.githubusercontent.com/54757285/183102240-63050f8e-ec9e-4c9c-b8ea-f7d182af2d72.png)
 
 
+# Cách sử dụng 
+Để sử dụng được chương trình bạn phải thêm các thông số đầu vào : 
+
+![image](https://user-images.githubusercontent.com/54757285/183226206-de0fd12f-657a-4e2c-890f-a456cc5d5bfc.png)
+
+Sau đó, nếu chạy trên máy tính cá nhân với ide hãy gõ trong cmd "python tên file mà bạn lưu.py" và file python sẽ được chạy, trường hợp sử dụng notbook hoặc colab : chỉnh sửa thông số và chạy lần lượt từng cell
+
+
 ## Dự định
 
 - Tính được khoảng cách di chuyển

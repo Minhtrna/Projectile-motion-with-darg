@@ -40,6 +40,21 @@ theo sơ đồ sau :
 
 ![image](https://user-images.githubusercontent.com/54757285/183226206-de0fd12f-657a-4e2c-890f-a456cc5d5bfc.png)
 
+# Hệ số cản không khí
+Trong các thông số đầu vào ở trên mọi thứ rất đơn giản cho đến khi bạn điền đến hệ số cản không khí, đây không phải là một con số đại khái mà phải được tính toán. Vậy làm thế nào mà tôi biết được hệ số cản không khí, rất đơn giản 
+Đầu tiên bạn cần tạo ra mô hình đầu đạn mà bạn muốn đo hệ số cản, hãy chắc chắn các đơn vị đo là chuẩn với ý định hoặc bản vẽ của bạn.
+ở đây tôi sử dụng Blender : 
+
+![image](https://user-images.githubusercontent.com/54757285/185751336-522ac156-150e-48e3-bbb8-eb62f8fe8b2e.png)
+
+Ok vậy là chúng ta đã có được mô hình của viên đạn, giờ chúng ta cần có một thứ gì đó để thử nghiệm nó. Trong thực tế người ta thử mọi thứ cần tính đến các yếu tố khí động học trong một cái đường hầm gió 
+
+![image](https://user-images.githubusercontent.com/54757285/185751445-fe475e95-1772-474a-b148-72b6a34ce098.png)
+
+Nó có thể to hoặc nhỏ tùy ý nhưng có một điều chắc chắn là tôi không có đủ tiền để làm một cái cho riêng mình. Vậy giải pháp ở đây là gì " Nếu bạn không có một thứ gì đó trong thực tế, hãy giả lập nó ", chúng ta cần một phần mềm giả lập được môi trường của đường hầm gió và quan trọng là nó phải miễn phí :V. Ở đây tôi sử dụng Simscale, một trang web cho phép bạn chạy nhiều loại giả lập một cách miễn phí ( tất nhiên nó có giới hạn, không ai cho không ai cái gì, nhưng với tôi thì 10 lần miễn phí là khá thừa thãi cho một nhà nghiên cứu độc lập, tôi rất thích trang web này tương lai khi hết miễn phí và cần thiết chắc tôi sẽ trả tiền để dùng nó, thực sự dễ dùng hơn các phần mềm CFD ). 
+Đây là project mà tôi đã giả lập : https://www.simscale.com/projects/quangtran10200/drag_cf/
+Để biết chi tiết hãy xem video : https://youtu.be/n3c7bNKGjR0
+
 #
 #NẾU BẠN CHẠY TRÊN GOOGLE COLAB ĐỪNG QUÊN CHẠY LẠI CELL THÔNG SỐ ĐẦU VÀO TRƯỚC MỖI LẦN CHẠY, KHÔNG THỰC HIỆN VIỆC NÀY SẼ DẪN ĐẾN SAI LỆCH KẾT QUẢ
 #

@@ -1,3 +1,5 @@
+# cập nhật :
+đang bắt đầu làm việc để cho ra tính toán đạn đạo 3d :D chúng ta sẽ tính toán tất cả các yếu tố tác động lên chuyển động của viên đạn. Điều này giúp ích rất nhiều cho hệ thống điều khiển hoả lực nhà làm, nó cũng sẽ trở thành lõi tính toán phát bắn của hệ thống phòng vệ chủ động nhà làm 
 
 # Projectile motion with drag
 

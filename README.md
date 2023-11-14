@@ -1,6 +1,4 @@
-# cập nhật :
-đang bắt đầu làm việc để cho ra tính toán đạn đạo 3d :D chúng ta sẽ tính toán tất cả các yếu tố tác động lên chuyển động của viên đạn. Điều này giúp ích rất nhiều cho hệ thống điều khiển hoả lực nhà làm, nó cũng sẽ trở thành lõi tính toán phát bắn của hệ thống phòng vệ chủ động nhà làm. 
-tuy không thể tự sản xuất ra máy tính đạn đạo pháo hay súng ống nhưng Mlab vẫn luôn cố gắng tự chủ nhiều nhất có thể mỗi thứ mà mlab hứng thú. Hiện giới hạn của tiền và pháp luật không cho phép chúng ta làm ra xe tăng súng ống thì chúng ta làm phần mềm trước vậy :))
+
 
 # Projectile motion with drag
 
